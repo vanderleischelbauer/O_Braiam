@@ -1414,8 +1414,8 @@ body {
   box-shadow: none !important;
 }
 .cid-rtjeym4P0c {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 15px;
+  padding-bottom: 60px;
   background-color: #55b4d4;
 }
 .cid-rtjeym4P0c .mbr-section-subtitle {
@@ -1512,7 +1512,7 @@ body {
 }
 .cid-rtjhDjctkI {
   padding-top: 45px;
-  padding-bottom: 45px;
+  padding-bottom: 30px;
   background-color: #2e2e2e;
 }
 @media (max-width: 767px) {
@@ -1599,6 +1599,9 @@ body {
   .cid-rtjhDjctkI .form-group {
     margin: 0;
   }
+}
+.cid-rtjhDjctkI .foot-text {
+  text-align: center;
 }
 .cid-rtuAQlgLaz .navbar {
   padding: .5rem 0;
